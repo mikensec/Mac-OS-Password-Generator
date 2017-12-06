@@ -2,7 +2,7 @@
 - This applescript can be expanded to change Root's blank password to address the High Sierra vulnerability. 
 
 # How to use
-- Download applescript and open with Script Editor
+- Download generatepw.scpt to your mac and open with Script Editor
 
 # How to use the new password for root
 - Open terminal

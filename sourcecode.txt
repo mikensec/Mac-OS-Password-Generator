@@ -1,0 +1,5 @@
+set genPassword to (do shell script "openssl rand -base64 8") -- Generate password
+set myPassword to genPassword -- set variable to new password
+set theDialogText to "Generated password: " & (myPassword) & ""
+
+display dialog theDialogText
